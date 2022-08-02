@@ -1,0 +1,37 @@
+.my_nav_bar
+{
+  position:sticky;
+  top:0;
+  z-index:99999;
+}
+body{
+    text-align: center;
+}
+#school{
+  width: 100%;
+}
+.campus{
+  border: 1px solid lightgray;
+}
+.campus h5,p{
+  margin: 20px;
+}
+.movie_head{
+  width: 100%;
+  font-size: 20px;
+  padding: 6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.movie_head i{
+  float: right;
+}
+.achievments_text span{
+  color:orange;
+}
+.achievments_text{
+  margin-bottom: 15px;
+}
+.new{
+  margin-bottom: 20px;
+}
